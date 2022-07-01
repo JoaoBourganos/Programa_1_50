@@ -10,7 +10,7 @@ namespace Programa_1_50
     {
         static void Main(string[] args)
         {
-            int numeros1, numeros2;
+            int numeros1;
             for(numeros1 = 0; numeros1 < 51; numeros1++)
             {
                 Console.WriteLine(numeros1);
